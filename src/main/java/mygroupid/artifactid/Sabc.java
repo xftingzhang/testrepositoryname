@@ -10,6 +10,7 @@ public class Sabc {
     // TODO Auto-generated method stub
       String s="Buffered"; 
       String one ="";
+      String two="";
   }
 
 }
