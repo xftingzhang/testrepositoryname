@@ -11,6 +11,8 @@ public class Sabc {
       String s="Buffered"; 
       String one ="";
       String two="";
+      String three = two;
+      
   }
 
 }
